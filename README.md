@@ -1,3 +1,5 @@
+# Mohammad Nabin  
+### **The Tech Mortal**
 
 # Wi-Fi Hacking Device with ESP8266
 
@@ -100,6 +102,14 @@ Li-Po Battery --> TP4056 Charging Module --> Boost Converter (MT3608) --> ESP826
                                     Buttons, OLED, NeoPixel
 ```
 
+### Pin Diagram:
+
+
+
+### Final Build:
+
+
+
 ---
 
 ## Notes
@@ -107,3 +117,25 @@ Li-Po Battery --> TP4056 Charging Module --> Boost Converter (MT3608) --> ESP826
 - Ensure proper insulation between connections to avoid short circuits.
 - Use heat shrink tubing where necessary for safety.
 - Be mindful of the legal implications of using Wi-Fi hacking devices and ensure ethical use.
+
+---
+
+## Attachments
+
+1. **Final Build Image**
+   - [Snapchat-1606079273\_exported\_2133.jpg](attachment:/mnt/data/Snapchat-1606079273_exported_2133.jpg)
+2. **Circuit Diagram Image**
+   - [2024-10-15-08-59-18-979.jpg](attachment:/mnt/data/2024-10-15-08-59-18-979.jpg)
+3. **Firmware Files**
+   - [BIN File for 0.96" Display](link-to-file)
+   - [BIN File for 1.3" Display](link-to-file)
+
+---
+
+## Credits
+
+- **Project by:** Mohammad Nabin
+- **Brand Name:** The Tech Mortal
+
+For further assistance, contact us or refer to the included images and diagram.
+
