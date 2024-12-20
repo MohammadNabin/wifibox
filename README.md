@@ -1,7 +1,7 @@
 # Mohammad Nabin  
 ### **The Tech Mortal**
 
-# Wi-Fi Hacking Device with ESP8266
+# Wi-Fi HackBox with ESP8266
 
 ## Overview
 
