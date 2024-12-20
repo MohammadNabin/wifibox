@@ -123,9 +123,9 @@ Li-Po Battery --> TP4056 Charging Module --> Boost Converter (MT3608) --> ESP826
 ## Attachments
 
 1. **Final Build Image**
-   - [Snapchat-1606079273\_exported\_2133.jpg](https://github.com/MohammadNabin/wifibox/blob/main/Front.jpg)
+   - [IN HAND PICTURE](https://github.com/MohammadNabin/wifibox/blob/main/Front.jpg)
 2. **Circuit Diagram Image**
-   - [2024-10-15-08-59-18-979.jpg](https://github.com/MohammadNabin/wifibox/blob/main/Back.jpg)
+   - [Wire Management](https://github.com/MohammadNabin/wifibox/blob/main/Back.jpg)
 3. **Firmware Files**
    - [BIN File for 0.96" Display](https://github.com/MohammadNabin/wifibox/tree/main/Firmware)
    - [BIN File for 1.3" Display](https://github.com/MohammadNabin/wifibox/tree/main/Firmware)
